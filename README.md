@@ -4,3 +4,4 @@
 * word2vec test.
 * cross entropy test.
 * bidirectional rnn test.
+* a convolution operation on a picture. 
