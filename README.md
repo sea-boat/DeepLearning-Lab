@@ -6,3 +6,5 @@
 * bidirectional rnn test.
 * a convolution operation on a picture. 
 * a pooling operation on a picture.
+* cnn visualization by quiver. 
+* InceptionV3 model.
