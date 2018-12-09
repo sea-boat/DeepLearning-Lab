@@ -8,3 +8,4 @@
 * a pooling operation on a picture.
 * cnn visualization by quiver. 
 * InceptionV3 model.
+* transfer learning.
